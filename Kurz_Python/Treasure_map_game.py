@@ -41,4 +41,5 @@ else:
 #selected_row[horizontal - 1] = "X"
 #
 
+
 print(f"{row1}\n{row2}\n{row3}")

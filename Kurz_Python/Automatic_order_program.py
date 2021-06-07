@@ -34,4 +34,5 @@ print("Your final bill is: $" + str(total_price) + ".")
 
 wait = input("Press Enter to continue.")
 
+
 import MainProgram

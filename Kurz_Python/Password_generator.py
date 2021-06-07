@@ -23,6 +23,7 @@ nr_numbers = int(input(f"How many numbers would you like?\n"))
 
 # print(password)
 
+
 #Hard Level
 password_list = []
 

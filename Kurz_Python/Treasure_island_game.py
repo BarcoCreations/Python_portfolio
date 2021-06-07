@@ -26,6 +26,7 @@ print("Melichar! Your mission is to find the treasure.")
 print("You are at a cross road. Where do you want to go? Type left or right: ")
 direction = input().lower()
 
+
 if direction == "left":
   print('You\'re come to a lake. There is a island in the middle of the lake. Type wait for a wait for a boat. Type a swim to swim across\n')
   direction = input().lower()
