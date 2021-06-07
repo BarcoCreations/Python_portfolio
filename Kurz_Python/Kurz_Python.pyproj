@@ -47,6 +47,12 @@
     <Compile Include="Caesar_cipher.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="BlackJack_game.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="kalkulacka.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="Password_generator.py">
       <SubType>Code</SubType>
     </Compile>

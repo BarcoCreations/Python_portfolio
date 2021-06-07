@@ -59,7 +59,6 @@ def compare(user, computer):
              return("User Wins!")
          else:
              return("Computer Wins!")
-
     else:
         return("User Choose Out Of The Options!")
         exit()

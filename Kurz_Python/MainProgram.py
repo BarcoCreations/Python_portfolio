@@ -1,5 +1,5 @@
 print("Choose program:")
-print("1.Automatic order program,\n2.Buy ticket lunapark,\n3.Leap year,\n4.Love calculator,\n5.Treasure island game,\n6.Hangman,\n7.Caesar cipher,")
+print("1.Automatic order program,\n2.Buy ticket lunapark,\n3.Leap year,\n4.Love calculator,\n5.Treasure island game,\n6.Hangman,\n7.Caesar cipher,\n8.BlackJack game,\n9.Rock paper scissors game,")
 program = input()
 if program == "1":
     import Automatic_order_program
@@ -15,5 +15,12 @@ elif program == "6":
     import Hangman_game
 elif program == "7":
     import Caesar_cipher
+elif program == "8":
+    import BlackJack_game
+elif program == "9":
+    import Rock_paper_scissors_game
+elif program == "10":
+    import Treasure_map_game
 else:
     print("End of choosing")
+     
